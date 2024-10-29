@@ -1,0 +1,4 @@
+{"id": 0, "project_id": 0, "name": "AKU-d_ms-0.5B-chat-v0.1", "description": "AKU-d_ms-0.5B-chat-v0.1の開発及び公開", "due_date": "2024-10-14", "status": "completed", "created_at": "2024-10-29 10:20:24", "updated_at": "2024-10-29 10:20:24"}
+{"id": 1, "project_id": 1, "name": "v0.1.0", "description": "基本的なCRUD操作、ルールベーススケジュール、UI実装", "due_date": "2024-10-29", "status": "in_progress", "created_at": "2024-10-29 10:20:24", "updated_at": "2024-10-29 10:20:24"}
+{"id": 2, "project_id": 1, "name": "v0.2.0", "description": "APIモデルでのスケジュールの動的な調整のPoC", "due_date": null, "status": "todo", "created_at": "2024-10-29 10:20:24", "updated_at": "2024-10-29 10:20:24"}
+{"id": 3, "project_id": 3, "name": "v0.1.0", "description": "継続事前学習のパッケージ化実装", "due_date": null, "status": "todo", "created_at": "2024-10-29 10:20:24", "updated_at": "2024-10-29 10:20:24"}
