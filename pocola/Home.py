@@ -1,4 +1,3 @@
-from dotenv import load_dotenv
 import streamlit as st
 
 from components.task_view import convert_to_one_task_view
@@ -18,8 +17,7 @@ img.eeusbqq0 {{
 }}
 </style>
 """
-HEIGHT_STANDARD = 200
-load_dotenv()
+HEIGHT_STANDARD = 300
 
 # === Functions ===
 
